@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/yan-mesko/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU-EMAIL@dominio.com">
+  <a href="mailto:yanmesko@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -37,7 +37,6 @@
 #### **Back-end & Cloud Services**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 #### **Hardware, Infraestrutura & Ferramentas**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -50,16 +49,16 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MeskoYan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeskoYan&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
 
 ---
 
 ### 📬 Vamos conversar?
 
-- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)
-- 📧 Envie um e-mail para [SEU-EMAIL@dominio.com](mailto:SEU-EMAIL@dominio.com)
+- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/yan-mesko)
+- 📧 Envie um e-mail para [SEU-EMAIL@dominio.com](mailto:yanmesko@gmail.com)
 
 <!--
 **MeskoYan/MeskoYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
