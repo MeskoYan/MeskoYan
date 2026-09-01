@@ -58,7 +58,7 @@
 ### 📬 Vamos conversar?
 
 - 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/yan-mesko)
-- 📧 Envie um e-mail para [SEU-EMAIL@dominio.com](mailto:yanmesko@gmail.com)
+- 📧 Envie um e-mail para [yanmesko@gmail.com](mailto:yanmesko@gmail.com)
 
 <!--
 **MeskoYan/MeskoYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
