@@ -51,8 +51,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MeskoYan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeskoYan&layout=compact&langs_count=6&theme=tokyonight"/>
+ [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MeskoYan)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 ---
