@@ -49,9 +49,8 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<p style="align: center">
+
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MeskoYan)
-</p>
 ---
 
 ### 📬 Vamos conversar?
