@@ -50,9 +50,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=meskoyan)](https://github.com/stats-organization/github-stats-extended)]
-</p>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
